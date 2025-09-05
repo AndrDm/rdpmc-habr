@@ -1,0 +1,11 @@
+euroasm.exe fact3.asm
+euroasm.exe fact4.asm
+euroasm.exe fact5.asm
+euroasm.exe fact5_20.asm
+euroasm.exe fact5nops3.asm
+euroasm.exe fact5nops6.asm
+euroasm.exe fact5nops9.asm
+euroasm.exe rdpmc0.asm
+euroasm.exe rdpmc1.asm
+euroasm.exe rdpmc_sleep.asm
+euroasm.exe rdtsc_sleep.asm
